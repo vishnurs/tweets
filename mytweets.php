@@ -1,8 +1,8 @@
 <?php
 /* 
-    Plugin Name: A short code plugin to retrieve the recent Tweets
+    Plugin Name: My Tweets
     Plugin URI: 
-    Description: A short code plugin for listing
+    Description: A short code plugin to retrieve the recent Tweets
     Author: Vishnu.R.S
     Version: 1.0 
     Author URI: http://vishnurs.com 
